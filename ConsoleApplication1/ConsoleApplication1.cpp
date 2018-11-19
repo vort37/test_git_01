@@ -7,6 +7,7 @@
 /*
     modif 8h45 sur site git
 	modif 8h48 locale
+	modif 8h49 locale
 */
 int main()
 {
